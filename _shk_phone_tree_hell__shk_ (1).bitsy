@@ -1,0 +1,3266 @@
+{shk}PHONE TREE HELL{/shk}
+
+# BITSY VERSION 8.3
+
+! VER_MAJ 8
+! VER_MIN 3
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 0
+128,7,10
+245,78,99
+254,221,115
+NAME blueprint
+
+ROOM 0
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,o,p,q,r,s,0,k,k,0,n,0,0,0,k
+k,0,t,u,v,w,x,0,k,k,0,n,0,0,0,k
+k,0,y,z,z,z,10,0,k,k,0,n,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,0,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,0,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,0,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,0,0,k
+k,0,19,0,1a,0,1b,0,k,k,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,0,n,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,0,n,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,0,n,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME room 0
+PAL 0
+TUNE 6
+
+ROOM 1
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,n,k,k,k,n,0,k,0,k,k,k,k,0,k
+k,0,n,k,13,k,n,0,k,0,0,0,0,0,0,k
+k,0,n,k,k,k,n,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,0,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,0,0,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME press 1 SCH
+PAL 0
+
+ROOM 2
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,n,k,k,k,n,0,k,0,0,0,0,0,0,k
+k,0,n,k,14,k,n,0,k,0,0,0,0,0,0,k
+k,0,n,k,k,k,n,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,16,0,17,0,18,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,k,k
+k,0,19,0,1a,0,1b,0,k,k,k,k,0,0,k,k
+k,0,0,0,0,0,0,0,k,0,0,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,k,0,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,k,0,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,k,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME press 2 RX
+PAL 0
+
+ROOM 3
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,n,k,k,k,n,0,k,0,k,k,k,k,0,k
+k,0,n,k,15,k,n,0,k,0,k,0,0,k,0,k
+k,0,n,k,k,k,n,0,k,0,k,0,0,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,k,k,k
+k,0,16,0,17,0,18,0,k,k,k,k,0,0,k,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,19,0,1a,0,1b,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,0,0,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,0,0,k,0,k
+k,0,0,0,0,0,0,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME press 3 MSG
+PAL 0
+
+ROOM 4
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,1c,1c,k,k,k
+k,0,n,k,k,k,n,0,k,k,0,0,0,0,k,k
+k,0,n,k,16,k,n,0,k,0,k,1c,1c,k,0,k
+k,0,n,k,k,k,n,0,k,0,k,1c,1c,k,k,k
+k,0,0,0,0,0,0,0,k,0,k,1c,1c,k,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,k,1c,1c,k,0,k
+k,0,0,0,17,0,18,0,k,k,k,1c,1c,k,0,k
+k,0,0,0,0,0,0,0,k,k,k,1c,1c,k,0,k
+k,0,19,0,1a,0,1b,0,k,0,k,1c,1c,k,0,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,k,1c,1c,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,1c,1c,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,1c,1c,k,k,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME press 4 BILL
+PAL 0
+
+ROOM 5
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,0,0,0,0,k,k
+k,0,n,k,k,k,n,0,k,0,0,0,0,0,0,k
+k,0,n,k,17,k,n,0,k,0,k,k,k,k,0,k
+k,0,n,k,k,k,n,0,k,0,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,0,k,k
+k,0,16,0,17,0,18,0,k,k,k,k,0,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,0,0,k,k,k
+k,0,19,0,1a,0,1b,0,k,k,k,0,0,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,0,0,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,0,0,k,k,k
+k,0,0,0,0,0,0,0,k,k,k,0,0,k,k,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME press 5 INS
+PAL 0
+
+ROOM 6
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,0,0,0,k,k,k,k
+k,0,n,k,k,k,n,0,k,0,0,0,0,0,0,k
+k,0,n,k,18,k,n,0,k,0,0,0,0,0,0,k
+k,0,n,k,k,k,n,0,k,0,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,0,0,0,0,0,0,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,k,k
+k,0,16,0,17,0,18,0,k,0,0,k,0,0,k,k
+k,0,0,0,0,0,0,0,k,0,0,k,0,0,k,k
+k,0,19,0,1a,0,1b,0,k,0,0,k,0,0,k,k
+k,0,0,0,0,0,0,0,k,k,k,k,k,k,k,k
+k,0,0,0,0,0,0,0,k,0,0,k,0,0,k,k
+k,0,0,0,0,0,0,0,k,0,0,k,0,0,k,k
+k,0,0,0,0,0,0,0,k,0,0,k,0,0,k,k
+k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k
+NAME press 6 RECORD REQUEST
+PAL 0
+
+TIL 10
+00000001
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME screen 13
+
+TIL 13
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME one 
+
+TIL 14
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00001000
+00010000
+00100000
+00111100
+00000000
+NAME two
+
+TIL 15
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00001000
+00000100
+00100100
+00011100
+00000000
+NAME three
+
+TIL 16
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME four
+
+TIL 17
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00111100
+00100000
+00111100
+00000100
+00100100
+00011000
+00000000
+NAME five
+
+TIL 18
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00001000
+00010000
+00100000
+00111100
+00100100
+00111100
+00000000
+NAME six
+
+TIL 19
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00111100
+00000100
+00001000
+00010000
+00010000
+00010000
+00000000
+NAME seven
+
+TIL k
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME block
+
+TIL n
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+10101010
+01010101
+NAME phone
+
+TIL o
+11111111
+10000000
+10011100
+10100010
+10100000
+10100000
+10100010
+10011100
+NAME screen 1
+
+TIL p
+11111111
+00000000
+01110010
+10001010
+10001010
+11111010
+10001010
+10001011
+NAME screen 2
+
+TIL q
+11111111
+00000000
+00100010
+00100010
+00100010
+00100010
+00100010
+10111010
+NAME screen 3
+
+TIL r
+11111111
+00000000
+10000100
+11000101
+10100101
+10010101
+10001101
+10000100
+NAME screen 4
+
+TIL s
+11111111
+00000001
+11100001
+00010001
+00000001
+00111001
+00010001
+11110001
+NAME screen 5
+
+TIL t
+10000000
+10111000
+10100101
+10100101
+10100101
+10100101
+10100101
+10111000
+NAME screen 6
+
+TIL u
+00000000
+11100011
+00010100
+00010100
+00010100
+00010100
+00010100
+11100011
+NAME screen 7
+
+TIL v
+00000000
+11001111
+01100010
+00000010
+00000010
+00000010
+01100010
+11000010
+NAME screen 8
+
+TIL w
+00000000
+10011100
+00100010
+00100010
+00100010
+00100010
+00100010
+00011100
+NAME screen 9
+
+TIL x
+00000001
+01110001
+01001001
+01110001
+01100001
+01010001
+01001001
+01000101
+NAME screen 10
+
+TIL y
+10000000
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME screen 11
+
+TIL z
+00000000
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME screen 12
+
+TIL 1a
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME eight
+
+TIL 1b
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME nine
+
+TIL 1c
+11000011
+11000011
+11000011
+11000011
+11000011
+11000011
+11000011
+11000011
+NAME STRIPES
+
+SPR 10
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00011000
+00100100
+00001000
+00001100
+00100100
+00011100
+00000000
+NAME 3b
+DLG 1d
+POS 2 6,6
+
+SPR 11
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME 4b
+DLG 1e
+
+SPR 12
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00111100
+00100000
+00111100
+00000100
+00100100
+00011000
+00000000
+NAME 5b
+DLG 1f
+
+SPR 13
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00001000
+00010000
+00100000
+00111100
+00100100
+00111100
+00000000
+NAME 6b
+DLG 1g
+
+SPR 14
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00111100
+00000100
+00011000
+00010000
+00010000
+00010000
+00000000
+NAME 7b
+DLG 1h
+
+SPR 15
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME 8b
+DLG 1i
+
+SPR 16
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME 9b
+DLG 1j
+
+SPR 17
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME starb
+DLG 1a
+POS 2 2,12
+
+SPR 18
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME zerob
+DLG 19
+POS 2 4,12
+
+SPR 19
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME poundb
+DLG 18
+POS 2 6,12
+
+SPR 20
+11100111
+10000001
+10000001
+00000000
+00000000
+10000001
+10000001
+11100111
+>
+00000000
+00011000
+00100100
+00001000
+00000100
+00100100
+00011000
+00000000
+NAME 5-3
+DLG 21
+POS 5 6,6
+
+SPR 27
+11100111
+10000001
+10000001
+00000000
+00000000
+10000001
+10000001
+11100111
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME 5-0
+DLG 27
+POS 5 4,12
+
+SPR 28
+11100111
+10000001
+10000001
+00000000
+00000000
+10000001
+10000001
+11100111
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME 5-*
+DLG 22
+POS 5 2,12
+
+SPR 29
+11100111
+10000001
+10000001
+00000000
+00000000
+10000001
+10000001
+11100111
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME 5-#
+DLG 23
+POS 5 6,12
+
+SPR A
+11111111
+10000001
+10111101
+10100101
+10100101
+10101101
+10100001
+10111111
+POS 0 10,7
+
+SPR a
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME one
+DLG 0
+POS 0 2,6
+BLIP 1
+
+SPR b
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00000100
+00011000
+00100000
+00111100
+00000000
+NAME two
+DLG 4
+POS 0 4,6
+
+SPR c
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00001000
+00001100
+00100100
+00011100
+00000000
+NAME three
+DLG 3
+POS 0 6,6
+
+SPR d
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME four
+DLG 5
+POS 0 2,8
+
+SPR e
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00111100
+00100000
+00111000
+00000100
+00100100
+00011000
+00000000
+NAME five
+DLG 6
+POS 0 4,8
+
+SPR f
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00100000
+00111100
+00100100
+00011000
+00000000
+NAME six
+DLG c
+POS 0 6,8
+
+SPR g
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00111100
+00000100
+00001000
+00010000
+00010000
+00010000
+00000000
+NAME seven
+DLG b
+
+SPR h
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME eight
+DLG a
+
+SPR i
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME nine
+DLG 9
+
+SPR j
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME zero
+DLG 7
+POS 0 4,12
+
+SPR k
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME star
+DLG 8
+POS 0 2,12
+
+SPR l
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME pound
+DLG j
+POS 0 6,12
+
+SPR m
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00001000
+00011000
+00101000
+00001000
+00001000
+00111100
+00000000
+NAME one 1
+DLG n
+POS 1 2,6
+
+SPR n
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00011000
+00100100
+00000100
+00011000
+00100000
+00111100
+00000000
+NAME two 2
+DLG o
+POS 1 4,6
+
+SPR o
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00011000
+00100100
+00001000
+00001100
+00100100
+00011100
+00000000
+NAME three 3
+DLG p
+POS 1 6,6
+
+SPR p
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME four 4
+DLG q
+POS 1 2,8
+
+SPR q
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00111100
+00100000
+00111100
+00000100
+00100100
+00011000
+00000000
+NAME five 5
+DLG r
+POS 1 4,8
+
+SPR r
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00001000
+00010000
+00100000
+00111100
+00100100
+00111100
+00000000
+NAME six 6
+DLG s
+POS 1 6,8
+
+SPR s
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00111100
+00000100
+00001000
+00010000
+00010000
+00010000
+00000000
+NAME seven 7
+DLG t
+POS 1 2,10
+
+SPR t
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME eight 8
+DLG u
+POS 1 4,10
+
+SPR u
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME nine 9
+DLG v
+POS 1 6,10
+
+SPR v
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME pound #
+DLG k
+POS 1 6,12
+
+SPR w
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME zero 0
+DLG m
+POS 1 4,12
+
+SPR x
+01111110
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+01111110
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME star star
+DLG l
+POS 1 2,12
+
+SPR y
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME 1b
+DLG 1b
+POS 2 2,6
+
+SPR z
+10111101
+00000000
+10000001
+10000001
+10000001
+10000001
+00000000
+10111101
+>
+00000000
+00011000
+00100100
+00001000
+00010000
+00100000
+00111100
+00000000
+NAME 2b
+DLG 1c
+POS 2 4,6
+
+SPR 1a
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME oneC
+DLG 15
+POS 3 2,6
+
+SPR 1b
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00011000
+00100100
+00001000
+00010000
+00100000
+00111100
+00000000
+NAME twoC
+DLG x
+POS 3 4,6
+
+SPR 1c
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00011000
+00100100
+00001000
+00000100
+00100100
+00011000
+00000000
+NAME threeC
+DLG y
+POS 3 6,6
+
+SPR 1d
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME fourC
+DLG z
+
+SPR 1e
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00111100
+00100000
+00111000
+00000100
+00100100
+00011000
+00000000
+NAME fiveC
+DLG 10
+
+SPR 1f
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00001000
+00010000
+00100000
+00111100
+00100100
+00111100
+00000000
+NAME sixC
+DLG 11
+
+SPR 1g
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00111100
+00000100
+00001000
+00010000
+00010000
+00010000
+00000000
+NAME sevenC
+DLG w
+
+SPR 1h
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME eightC
+DLG 16
+
+SPR 1i
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME nineC
+DLG 17
+
+SPR 1j
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME 0C
+DLG 14
+POS 3 4,12
+
+SPR 1k
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME starC
+DLG 13
+POS 3 2,12
+
+SPR 1l
+01011010
+10000001
+00000000
+10000001
+10000001
+00000000
+10000001
+01011010
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME poundC
+DLG 12
+POS 3 6,12
+
+SPR 1m
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME 4-1
+DLG 1k
+POS 4 2,6
+
+SPR 1n
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00011000
+00100100
+00001000
+00010000
+00100000
+00111100
+00000000
+NAME 4-2
+DLG 1l
+POS 4 4,6
+
+SPR 1o
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00011000
+00100100
+00001000
+00000100
+00100100
+00011000
+00000000
+NAME 4-3
+DLG 1m
+POS 4 6,6
+
+SPR 1p
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME 4-4
+DLG 1n
+POS 4 2,8
+
+SPR 1q
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00111100
+00100000
+00111100
+00000100
+00100100
+00011000
+00000000
+NAME 4-5
+DLG 1o
+
+SPR 1r
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00001000
+00010000
+00100000
+00111100
+00100100
+00111100
+00000000
+NAME 4-6
+DLG 1p
+
+SPR 1s
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00111100
+00000100
+00001000
+00010000
+00010000
+00010000
+00000000
+NAME 4-7
+DLG 1q
+
+SPR 1t
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME 4-8
+DLG 1r
+
+SPR 1u
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME 4-9
+DLG 1s
+
+SPR 1v
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME 4-0
+DLG 1t
+POS 4 4,12
+
+SPR 1w
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME 4-*
+DLG 1u
+POS 4 2,12
+
+SPR 1x
+10100101
+00000000
+10000001
+00000000
+00000000
+10000001
+00000000
+10100101
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME 4-#
+DLG 1v
+POS 4 6,12
+
+SPR 1y
+11100111
+10000001
+10000001
+00000000
+00000000
+10000001
+10000001
+11100111
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME 5-1
+DLG 1z
+POS 5 2,6
+
+SPR 1z
+11100111
+10000001
+10000001
+00000000
+00000000
+10000001
+10000001
+11100111
+>
+00000000
+00011000
+00100100
+00001000
+00010000
+00100000
+00111100
+00000000
+NAME 5-2
+DLG 20
+POS 5 4,6
+
+SPR 2a
+10011001
+00000000
+00000000
+10000001
+10000001
+00000000
+00000000
+10011001
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME 6-1
+DLG 1w
+POS 6 2,6
+
+SPR 2b
+10011001
+00000000
+00000000
+10000001
+10000001
+00000000
+00000000
+10011001
+>
+00000000
+00011000
+00100100
+00001000
+00010000
+00100000
+00111100
+00000000
+NAME 6-2
+DLG 1x
+POS 6 4,6
+
+SPR 2c
+10011001
+00000000
+00000000
+10000001
+10000001
+00000000
+00000000
+10011001
+>
+00000000
+00011000
+00100100
+00001000
+00000100
+00100100
+00011100
+00000000
+NAME 6-3
+DLG 1y
+POS 6 6,6
+
+SPR 2f
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME 6-6
+
+SPR 2j
+10011001
+00000000
+00000000
+10000001
+10000001
+00000000
+00000000
+10011001
+>
+00000000
+00011000
+00100100
+00100100
+00100100
+00100100
+00011000
+00000000
+NAME 6-0
+DLG 26
+POS 6 4,12
+
+SPR 2k
+10011001
+00000000
+00000000
+10000001
+10000001
+00000000
+00000000
+10011001
+>
+00000000
+01000010
+00100100
+00011000
+00011000
+00100100
+01000010
+00000000
+NAME 6-*
+DLG 25
+POS 6 2,12
+
+SPR 2l
+10011001
+00000000
+00000000
+10000001
+10000001
+00000000
+00000000
+10011001
+>
+00000000
+00101000
+01111110
+00101000
+01111110
+00101000
+00101000
+00000000
+NAME 6-#
+DLG 24
+POS 6 6,12
+
+SPR 2m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+ITM 0
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00101000
+00001000
+00001000
+00001000
+00111100
+00000000
+NAME item one
+DLG g
+
+ITM 2
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00001100
+00001000
+00100100
+00011000
+00000000
+NAME item 3
+
+ITM 3
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00101000
+00101000
+00101000
+00111100
+00001000
+00001000
+00000000
+NAME item 4
+
+ITM 4
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00111100
+00100000
+00111000
+00000100
+00100100
+00011000
+00000000
+NAME item 5
+
+ITM 5
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00001000
+00010000
+00100000
+00111100
+00100100
+00111100
+00000000
+NAME item 6
+
+ITM 6
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00111100
+00000100
+00001000
+00010000
+00010000
+00010000
+00000000
+NAME item 7
+
+ITM 7
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00000100
+00011000
+00100000
+00111100
+00000000
+NAME item 2
+DLG i
+
+ITM 8
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME item 8
+
+ITM 9
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+>
+00000000
+00011000
+00100100
+00011100
+00000100
+00100100
+00011000
+00000000
+NAME item 9
+
+DLG 0
+"""
+{sequence
+  - press one again to schedule an appointment
+  - {exit "1" 1 1}
+}
+"""
+NAME one dialog
+
+DLG 3
+"""
+{sequence
+  - press three again to leave a message for the medical assistant or nurse...
+  - {exit "3" 1 1}
+}
+"""
+NAME three dialog
+
+DLG 4
+"""
+{sequence
+  - press two again to request a prescription refill 
+  - {exit "2" 1 1}
+}
+"""
+NAME two dialog
+
+DLG 5
+"""
+{sequence
+  - press four again to pay your bill.
+  - {exit "4" 1 1}
+}
+"""
+NAME four dialog
+
+DLG 6
+"""
+{sequence
+  - press five again to talk to the insurance department. 
+  - {exit "5" 1 1}
+}
+"""
+NAME five dialog
+
+DLG 7
+"""
+{sequence
+  - press zero again to speak with a representative
+  - all representatives are busy. please try again later.
+  - there are 57 callers in the queue. we will save your place in line and call you when it is your turn.{end}
+}
+"""
+NAME zero dialog
+
+DLG 8
+"""
+{sequence
+  - press star again to hang up.
+  - {end}
+}
+"""
+NAME pound dialog
+
+DLG 9
+I'm sorry. I did not recognize that entry. Please try again.
+NAME nine dialog
+
+DLG 10
+"""
+{sequence
+  - press five again if you would like to leave a message for the billing department.
+  - I'm sorry. The billing department mailbox is full. Please try again later. 
+}
+"""
+NAME fiveC dialog
+
+DLG 11
+"""
+{sequence
+  - press six again if you would like to leave a message for the insurance department.
+  - I'm sorry. The insurance department mailbox is full. Please try again later. 
+}
+"""
+NAME sixC dialog
+
+DLG 12
+"""
+{sequence
+  - press pound again to go back to the beginning menu.
+  - {exit "0" 0 0}
+}
+"""
+NAME poundC dialog
+
+DLG 13
+"""
+{sequence
+  - Invalid entry. Please try again.
+  - {end}
+}
+"""
+NAME starC dialog
+
+DLG 14
+"""
+{sequence
+  - press zero again if you would like to speak with a human being.
+  - ...it is doubtful anyone living works here...
+  -  the definition of insanity is doing the same thing over and over again and expecting different results.
+  -  you are caller number 207 in the queue. we will save your place and call you back when it is your turn.{end}
+}
+"""
+NAME 0C dialog
+
+DLG 15
+"""
+{sequence
+  - press one again if you would like to leave a message for the doctor. 
+  - I'm sorry. The doctor's mailbox is full. Please try again later.
+}
+"""
+NAME oneC dialog
+
+DLG 16
+invalid entry.
+NAME eightC dialog
+
+DLG 17
+invalid entry.
+NAME nineC dialog
+
+DLG 18
+"""
+{sequence
+  - press pound again to go back to the main menu.
+  - {exit "0" 0 0}
+}
+"""
+NAME poundb dialog
+
+DLG 19
+"""
+{sequence
+  - press zero again to speak to the operator. 
+  - ...there are no people here, only bots and button and rage...
+}
+"""
+NAME zerob dialog
+
+DLG 20
+"""
+{sequence
+  - press two again if you would like to dispute the status of a claim.
+  - you need to call your insurance first, where they will tell you to contact us first. 
+  -  we are aware of how difficult insurance can be, we just don't care.
+}
+"""
+NAME 5-2 dialog
+
+DLG 21
+"""
+{sequence
+  - press three if you would like to change or add new insurance information.
+  - this system cannot handle complex requests. please use the website or come in to the office in person. 
+  -  ...it gives you another broken URL...
+}
+"""
+NAME 5-3 dialog
+
+DLG 22
+"""
+{sequence
+  - press star again to rage quit.
+  - {rbw}RAGE{/rbw}{end}
+}
+"""
+NAME 5-* dialog
+
+DLG 23
+"""
+{sequence
+  - press pound again to angrily go back to the main menu.
+  - {rbw}RAGE{/rbw}{exit "0" 1 1}
+}
+"""
+NAME 5-# dialog
+
+DLG 24
+"""
+{sequence
+  - press pound again if you would like to go back to the main menu.
+  - {exit "0" 1 1}
+}
+"""
+NAME 6-# dialog
+
+DLG 25
+"""
+{sequence
+  - press the star key again to rage quit.
+  - {rbw}RAGE{/rbw}{end}
+}
+"""
+NAME 6-* dialog
+
+DLG 26
+"""
+{sequence
+  - press zero again to talk to a person.
+  - this phone tree was probably created decades ago and never updated. there is no hope of hearing a human voice during this phone call. 
+  -  ...sometimes I wonder what it would be like to be real...
+}
+"""
+NAME 6-0 dialog
+
+DLG 27
+"""
+{sequence
+  - This usually summons a human being for you, doesn't it? How does it feel knowing your cries for help will go unheard and answered except by cold unfeeling digital ears?
+  - ...no people, only bots...
+  - We are closed for lunch. Please call back during normal business hours.
+}
+"""
+NAME 5-0 dialog
+
+DLG a
+I'm sorry. I did not recognize that entry. Please try again.
+NAME eight dialog
+
+DLG b
+I'm sorry. I did not recognize that entry. Please try again.
+NAME seven dialog
+
+DLG c
+"""
+{sequence
+  - press six again if you would like to request a copy of your records. 
+  - {exit "6" 1 1}
+}
+"""
+NAME six dialog
+
+DLG e
+
+NAME locked exit 1
+
+DLG f
+
+NAME locked exit 2
+
+DLG g
+press one again to schedule an appointment
+NAME one dialog 1
+
+DLG h
+"""
+{
+  - {item "0"} >= 1 ?
+    {property locked false}beep!
+  - else ?
+    {property locked true}
+}
+"""
+NAME locked exit 3
+
+DLG i
+press 2 again to request a prescription refill
+NAME item 2 dialog
+
+DLG j
+"""
+{sequence
+  - press pound again to end your call
+  - {end}
+}
+"""
+NAME POUND dialog
+
+DLG k
+"""
+{sequence
+  - press pound again to go back to the main menu
+  - {exit "0" 1 1}
+}
+"""
+NAME sprite v dialog
+
+DLG l
+"""
+{sequence
+  - press the star key again to disconnect
+  - {end}{tune "4"}
+}
+"""
+NAME star star dialog
+
+DLG m
+"""
+{sequence
+  - press zero again to speak with a representative
+  - all representatives are busy at this time. please try again
+  -  you are caller number 107 in the queue. we will save your place and call you back when it is your turn. {end}
+  - 
+}
+"""
+NAME zero 0 dialog
+
+DLG n
+"""
+{sequence
+  - press one again if you can come in today.
+  - there are no more same day appointments available.
+}
+"""
+NAME one 1 dialog
+
+DLG o
+"""
+{sequence
+  - press two again if you are available next week.
+  - invalid entry date. please try again.
+}
+"""
+NAME two 2 dialog
+
+DLG p
+"""
+{sequence
+  - press three again if you are available next month.
+  - invalid entry date. please try again.
+}
+"""
+NAME three 3 dialog
+
+DLG q
+"""
+{sequence
+  - press four if you would like to be placed on our call back cancelation list.
+  - unable to subscribe. callback cancelation list is full.
+}
+"""
+NAME four 4 dialog
+
+DLG r
+"""
+{sequence
+  - press five again if you would like help scheduling.
+  - all representatives are busy at this time. try again later.
+}
+"""
+NAME five 5 dialog
+
+DLG s
+"""
+{sequence
+  - press six again if you would like the web address for scheduling.
+  - ...it gives you a broken URL...
+}
+"""
+NAME six 6 dialog
+
+DLG t
+"""
+{sequence
+  - ...you hear modem noises...{blip "ring ring"}
+  - ...nothing...{blip "nope"}
+}
+"""
+NAME seven 7 dialog
+
+DLG u
+"""
+{sequence
+  - ...it sound like a fax machine...{blip "hang up"}
+  - ...nothing...{blip "nope"}
+}
+"""
+NAME eight 8 dialog
+
+DLG v
+"""
+{sequence
+  - ...it sound like AOL booting up in the 90s...{blip "ring ring"}
+  - ...nothing happens...
+}
+"""
+NAME nine 9 dialog
+
+DLG w
+"""
+{sequence
+  - press one again if you would like to leave a message for the general office.
+  - I'm sorry. the general office mailbox is full. Please try again later.
+}
+"""
+NAME sevenC dialog
+
+DLG x
+"""
+{sequence
+  - press two again if you would like to leave a message for the nurse practicioner.
+  - I'm sorry. The nurse practitioner's mailbox is full. Please try again later. 
+}
+"""
+NAME twoC dialog
+
+DLG y
+"""
+{sequence
+  - press three again if you would like to leave a message for the medical assistant.
+  - I'm sorry. The medical assistant's mailbox is full. Please try again later. 
+}
+"""
+NAME threeC dialog
+
+DLG z
+"""
+{sequence
+  - press four again if you would like to leave a message for the records department.
+  - I'm sorry. The record department mailbox is full. Please try again later. 
+}
+"""
+NAME fourC dialog
+
+DLG 1a
+"""
+{sequence
+  - I'm sorry. I didn't get that. Please try again.
+  - invalid entry. 
+}
+"""
+NAME starb dialog
+
+DLG 1b
+"""
+{sequence
+  - press one again if you would like to refill all your prescriptions. 
+  - several of your prescriptions require a doctor's authorization. we are unable to fulfil your request at this time.
+}
+"""
+NAME 1b dialog
+
+DLG 1c
+"""
+{sequence
+  - press two again if you would like to change one or more of your prescriptions. 
+  - you thought it was that easy? HA! you have to see the doctor first. go back to the appointment menu.
+}
+"""
+NAME 2b dialog
+
+DLG 1d
+"""
+{sequence
+  - press three again to consult with the nurse practitioner about a prescription. 
+  - the nurse practitioner is away from their office. if you would like to leave a message, go to the message menu.
+}
+"""
+NAME 3b dialog
+
+DLG 1e
+"""
+{sequence
+  - BEEP
+  - {rbw}BEEP{/rbw}
+}
+"""
+NAME 4b dialog
+
+DLG 1f
+"""
+{sequence
+  - BEEP
+  - {rbw}BEEP{/rbw}
+}
+"""
+NAME 5b dialog
+
+DLG 1g
+"""
+{sequence
+  - BEEP
+  - {rbw}BEEP{/rbw}
+}
+"""
+NAME 6b dialog
+
+DLG 1h
+"""
+{sequence
+  - BEEP
+  - {rbw}BEEP{/rbw}
+}
+"""
+NAME 7b dialog
+
+DLG 1i
+"""
+{sequence
+  - BEEP
+  - {rbw}BEEP{/rbw}
+}
+"""
+NAME 8b dialog
+
+DLG 1j
+"""
+{sequence
+  - BEEP
+  - {rbw}BEEP{/rbw}
+}
+"""
+NAME 9b dialog
+
+DLG 1k
+"""
+{sequence
+  - press one again if you would like to make a partial payment.
+  - enrolling in a partial payment plan will make you ineligible for care until your balance is cleared.
+}
+"""
+NAME 4-1 dialog
+
+DLG 1l
+"""
+{sequence
+  - press two again if you would like to pay your balance in full.
+  - WHOAH! you must be rich!
+}
+"""
+NAME 4-2 dialog
+
+DLG 1m
+"""
+{sequence
+  - press three if you would like to ask for financial assistance.
+  - this office is for paying customers only. if you need financial assistance, you should seek care at an indigent center. 
+}
+"""
+NAME 4-3 dialog
+
+DLG 1n
+"""
+{sequence
+  - press four again if you would like to pay your bill online. 
+  - ...it gives you a broken URL...
+}
+"""
+NAME 4-4 dialog
+
+DLG 1o
+not an option
+NAME 4-5 dialog
+
+DLG 1p
+invalid entry
+NAME 4-6 dialog
+
+DLG 1q
+not an option
+NAME 4-7 dialog
+
+DLG 1r
+invalid entry
+NAME 4-8 dialog
+
+DLG 1s
+not an option
+NAME 4-9 dialog
+
+DLG 1t
+"""
+{sequence
+  - press zero again to talk to a billing representative.
+  - I'm sorry. All our representatives are busy at this time. Please try again or use our website to pay. 
+}
+"""
+NAME 4-0 dialog
+
+DLG 1u
+"""
+{sequence
+  - ...modem noises...{blip "ring ring"}
+  - ...nothing happens...
+}
+"""
+NAME 4-* dialog
+
+DLG 1v
+"""
+{sequence
+  - press pound to go back to the main menu.
+  - {exit "0" 1 1}
+}
+"""
+NAME 4-# dialog
+
+DLG 1w
+"""
+{sequence
+  - press one again if you would like a personal copy of your medical records.
+  - you must come in to the office in person to fill out a release form and pay $25.
+}
+"""
+NAME 6-1 dialog
+
+DLG 1x
+"""
+{sequence
+  - press two again if you would like to request a copy of your records for another medical office. 
+  - both you and the requesting doctor must fill out release forms and you must pay $25.
+}
+"""
+NAME 6-2 dialog
+
+DLG 1y
+"""
+{sequence
+  - press three again if you would like to dispute information in your medical records.
+  - you must be mistaken. WE DON'T MAKE MISTAKES AND THE DOCTOR IS NEVER WRONG.
+}
+"""
+NAME 6-3 dialog
+
+DLG 1z
+"""
+{sequence
+  - press one again if you need help understanding a claim.
+  - ...we don't understand this any better than you do...
+  - 
+}
+"""
+NAME 5-1 dialog
+
+VAR pressone
+0
+
+TUNE 1
+4l,0,0,0,s,0,3l,0,0,0,2s,0,2m,0,2r,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+d5,2d5,0,0,d5,0,l,0,3l,0,0,0,3s,0,0,0
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16l2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3l,0,0,0,s,0,4m,0,0,0,4r,0,0,0,0,0
+16s2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME finale fanfare
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP XFST
+SQR P2 P8
+ARP INT8
+
+TUNE 2
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,2G,0
+G3,0,D,0,G3,0,D,0,2A3,0,E,0,C,0,E,0
+>
+2F#,0,G,0,A,0,F#,0,2E,0,F#,E,4D,0,0,0
+2D,0,E,0,F#,0,D,0,2C,0,2G3,0,2F#3,0,D2,0
+>
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,G,0
+2G2,0,D,D5,G3,G,D,0,2C2,0,E,E5,C3,C,E5,0
+>
+2D,0,C5,B,A,0,A,0,4A,0,0,0,F#,0,0,0
+A2,0,E3,0,C3,0,E3,0,D3,0,A3,0,D,0,0,0
+>
+2E5,0,2G,0,2G5,0,2G,0,2F#5,0,2E5,0,2D5,0,2C5,0
+2C3,0,2E,0,2E5,0,2C,0,2A3,0,2C,0,2F#,0,2E,0
+>
+3B,0,0,0,2E5,0,D5,0,4A,0,0,0,G,0,0,0
+2G3,0,B3,0,2D,0,D3,0,2C3,0,G3,0,D#,0,0,0
+>
+0,0,2G,0,A,0,2B,0,C5,0,B,C5,A,0,G,0
+A2,0,A3,0,C,0,2D,0,D#,0,D,E,C,0,C3,0
+>
+8B,0,0,0,0,0,0,0,A,0,2F#,0,E,0,D,0
+D3,0,A3,0,F#,0,D,0,C,0,2D3,0,C3,0,F#3,0
+NAME tuneful town
+TMP FST
+SQR P4 P2
+
+TUNE 3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,D#5,0
+0,0,0,0,0,0,0,0,0,0,0,0,D#,0,0,0
+>
+0,0,0,0,G#,0,0,G#,0,0,0,D#5,0,0,0,0
+G#3,0,0,0,0,0,0,0,G#3,0,0,0,0,0,0,D#
+>
+4D#5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,C5
+G3,D#,0,G,0,D#,0,G,G3,D#,G,0,0,0,D#,0
+>
+0,0,0,0,0,0,0,0,0,0,0,D#5,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,3C5,0,0,C,3C5,0,0,D#,0,0,0,0
+0,D#3,0,0,0,0,0,0,0,0,D#3,0,0,0,0,C
+>
+0,0,0,0,C5,0,0,0,0,0,0,D#,G#,G#3,0,0
+C3,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,D,0,0,0,0,0,0,0
+NAME rhythmic ruins
+TMP FST
+SQR P2 P4
+
+TUNE 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+l,0,l,0,l,0,l,0,l,0,6l,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME dial tone
+KEY C,D,D#,F,G,G#,A# d,r,m,s,l
+TMP FST
+SQR P8 P2
+ARP UP
+
+TUNE 5
+0,r,r,m,s,r,r,m,d,r,r,m,s,r,r,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+l,0,l,0,l,0,l,0,l,0,l,0,l,0,l,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KEY C,D,D#,F,G,G#,A# d,r,m,s,l
+TMP SLW
+SQR P4 P8
+ARP INT8
+
+TUNE 6
+0,r,r,m,s,r,r,m,d,r,r,m,s,d5,r,d
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+l,d,d,r,l,d,d,r,l,d,d,r,l,s,d5,d
+16r2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+0,r,r,m,s,r,r,m,d,r,r,m,s,d5,r,d
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME mine
+KEY C,D,D#,F,G,G#,A# d,r,m,s,l
+TMP SLW
+SQR P4 P4
+ARP INT8
+
+BLIP 10
+G#2,D,G2
+NAME random 16
+ENV 103 339 3 377 70
+BEAT 449 99
+SQR P2
+RPT 1
+
+BLIP 11
+C2,A#,F#5
+NAME random 17
+ENV 208 87 5 119 112
+BEAT 460 134
+SQR P2
+RPT 1
+
+BLIP 12
+D#2,A#2,G2
+NAME random 18
+ENV 318 120 13 254 348
+BEAT 388 297
+SQR P4
+
+BLIP 15
+D2,F#5,F#2
+NAME hang up 
+ENV 136 69 12 388 380
+BEAT 413 313
+SQR P4
+RPT 1
+
+BLIP 16
+B3,G#3,G#
+NAME ring ring
+ENV 182 306 10 104 479
+BEAT 86 146
+SQR P4
+RPT 1
+
+BLIP 17
+A#3,F5,F#3
+NAME random 22
+ENV 366 322 10 254 453
+BEAT 191 448
+SQR P8
+RPT 1
+
+BLIP 18
+G#2,D#,B2
+NAME random 23
+ENV 9 471 5 421 385
+BEAT 217 159
+SQR P2
+RPT 1
+
+BLIP 19
+D3,A2,D#2
+NAME nope
+ENV 234 137 6 5 434
+BEAT 144 80
+SQR P8
+RPT 1
+
+BLIP h
+A#,E,0
+NAME meow 7
+ENV 72 72 4 150 106
+BEAT 55 111
+SQR P8
+
+BLIP i
+B5,F#5,0
+NAME meow 8
+ENV 48 75 8 140 92
+BEAT 45 64
+SQR P2
+
+BLIP j
+G#,C#,0
+NAME meow 9
+ENV 42 112 9 108 113
+BEAT 60 46
+SQR P2
+
+BLIP k
+D#,G,B3
+NAME meow 10
+ENV 54 66 8 480 123
+BEAT 34 115
+SQR P8
+RPT 1
+
+BLIP l
+D,C3,F3
+NAME random 1
+ENV 451 163 5 239 129
+BEAT 473 193
+SQR P8
+RPT 1
+
+BLIP m
+C#2,C,C
+NAME random 2
+ENV 419 131 4 413 260
+BEAT 4 50
+SQR P2
+RPT 1
+
+BLIP n
+D#2,C#5,F#3
+NAME random 3
+ENV 332 341 1 429 42
+BEAT 405 404
+SQR P2
+RPT 1
+
+BLIP o
+G#3,A2,D#3
+NAME random 4
+ENV 316 283 5 18 172
+BEAT 253 357
+SQR P8
+RPT 1
+
+BLIP p
+F5,G,A#2
+NAME random 5
+ENV 142 333 4 480 181
+BEAT 76 379
+SQR P2
+
+BLIP q
+B3,G2,F#5
+NAME random 6
+ENV 63 225 12 355 294
+BEAT 44 121
+SQR P4
+
+BLIP r
+G,F#5,A#
+NAME random 7
+ENV 359 352 0 149 43
+BEAT 35 23
+SQR P4
+RPT 1
+
+BLIP s
+D#5,A2,C#2
+NAME random 8
+ENV 200 19 6 333 172
+BEAT 256 400
+SQR P8
+
+BLIP t
+F#3,C5,C#
+NAME random 9
+ENV 11 175 10 369 248
+BEAT 288 263
+SQR P4
+RPT 1
+
+BLIP u
+C5,F,A#2
+NAME random 10
+ENV 445 107 14 257 214
+BEAT 434 177
+SQR P4
+
+BLIP v
+A#5,C2,B5
+NAME random 11
+ENV 478 238 12 381 378
+BEAT 426 307
+SQR P8
+
+BLIP w
+B3,D3,F
+NAME random 12
+ENV 305 45 10 246 108
+BEAT 175 316
+SQR P4
+
+BLIP x
+F#3,F#,A5
+NAME random 13
+ENV 155 116 12 434 53
+BEAT 109 105
+SQR P4
+
+BLIP y
+F3,A5,F
+NAME random 14
+ENV 211 105 1 291 476
+BEAT 42 35
+SQR P8
+RPT 1
+
+BLIP z
+D#2,E2,G#
+NAME random 15
+ENV 155 52 3 68 136
+BEAT 76 225
+SQR P2
+RPT 1
+
+BLIP 1a
+A,A#5,D3
+NAME random 25
+ENV 270 236 1 109 163
+BEAT 437 386
+SQR P2
+
